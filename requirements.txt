@@ -19,3 +19,4 @@ wikipedia
 arxiv
 langchainhub
 langchain_text_splitters 
+langchain
